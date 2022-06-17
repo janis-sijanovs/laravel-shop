@@ -1,4 +1,4 @@
-# Laravel store
+# Laravel shop
 
 One of my older projects. Wanted to add it here.
 
